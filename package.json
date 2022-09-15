@@ -1,0 +1,24 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is the first project from The Odin Project course's NodeJS track",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keaneatl/basic-informational-site.git"
+  },
+  "author": "keaneatl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keaneatl/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/keaneatl/basic-informational-site#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
